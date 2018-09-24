@@ -1,0 +1,25 @@
+html,
+body {
+  background-size: grey;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.timer {
+  text-align: center;
+
+}
+
+.timer-action {
+  font-size: 40px;
+  color: #fff;
+  margin-top: 40px;
+}
+.timer-numbers {
+  margin-top: 40px;
+  font-size: 40px;
+  color: #c78030;
+}
